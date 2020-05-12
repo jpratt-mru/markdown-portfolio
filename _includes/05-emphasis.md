@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am able to **type** with both hands, using these things called *fingers* to poke **vicsiously** at the keyboard.
