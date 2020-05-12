@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Things JP Likes
+
+- lists
+- bullet points
+  - indentation
